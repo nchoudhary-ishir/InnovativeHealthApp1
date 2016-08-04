@@ -2,7 +2,7 @@
   "appname": "InnovativeHealthApp1",
   "scope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader CategoryReader AddressAdmin MeAdmin MeCreditCardAdmin",
   "clientid": "FFFEEE8E-744B-4877-AD4C-D053E4F7FDBA",
-  "buyerid":"BuyerA",
+  "buyerid":"VendorA",
   "environment": "prod",
   "anonymous": false,
   "base": {
